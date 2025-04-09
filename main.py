@@ -26,7 +26,7 @@ app.add_middleware(
 )
 
 # Authentication
-SECRET_KEY = "your-secret-key"  # In production, use a secure key and store it properly
+SECRET_KEY = "7706aebe77f6b2765e2182d141567244329e9d89de6f6b8dc27e0744d84ffe02"  # In production, use a secure key and store it properly
 ALGORITHM = "HS256"
 ACCESS_TOKEN_EXPIRE_MINUTES = 30
 
